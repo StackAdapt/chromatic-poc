@@ -1,15 +1,15 @@
 
 > chromatic-poc@0.1.0 build-storybook
-> storybook build "--output-dir" "/var/folders/7s/3z_xmd9n0t1dkhxj2s483dn80000gp/T/chromatic--84013-ehp7s77TdTMK"
+> storybook build "--output-dir" "/var/folders/7s/3z_xmd9n0t1dkhxj2s483dn80000gp/T/chromatic--85344-GBh0wN5ERdTM"
 
 @storybook/cli v7.0.18
 
-info => Cleaning outputDir: /var/folders/7s/3z_xmd9n0t1dkhxj2s483dn80000gp/T/chromatic--84013-ehp7s77TdTMK
+info => Cleaning outputDir: /var/folders/7s/3z_xmd9n0t1dkhxj2s483dn80000gp/T/chromatic--85344-GBh0wN5ERdTM
 info => Loading presets
 info => Building manager..
-info => Manager built (204 ms)
+info => Manager built (250 ms)
 info => Compiling preview..
-info => Copying static files: /Users/matthew.jiao/dev/stackadapt/chromatic-poc/node_modules/@storybook/manager/static at /var/folders/7s/3z_xmd9n0t1dkhxj2s483dn80000gp/T/chromatic--84013-ehp7s77TdTMK/sb-common-assets
+info => Copying static files: /Users/matthew.jiao/dev/stackadapt/chromatic-poc/node_modules/@storybook/manager/static at /var/folders/7s/3z_xmd9n0t1dkhxj2s483dn80000gp/T/chromatic--85344-GBh0wN5ERdTM/sb-common-assets
 info Addon-docs: using MDX2
 info => Loading Webpack configuration from `node_modules/react-scripts`
 info => Removing existing JavaScript and TypeScript rules.
@@ -123,23 +123,22 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 20% building import loader ./node_modules/babel-loader/lib/index.js
 <s> [webpack.Progress] 20% building import loader ./node_modules/source-map-loader/dist/cjs.js
 <s> [webpack.Progress] 20% building 0/1 entries 11/26 dependencies 3/11 modules
-info => Copying static files: /Users/matthew.jiao/dev/stackadapt/chromatic-poc/public at /var/folders/7s/3z_xmd9n0t1dkhxj2s483dn80000gp/T/chromatic--84013-ehp7s77TdTMK/
-<s> [webpack.Progress] 19% building import loader ./node_modules/@storybook/mdx2-csf/loader.js
-<s> [webpack.Progress] 19% building 0/1 entries 25/35 dependencies 4/24 modules
-<s> [webpack.Progress] 25% building import loader ./node_modules/unplugin/dist/webpack/loaders/load.js
-<s> [webpack.Progress] 25% building 0/1 entries 39/75 dependencies 8/29 modules
+info => Copying static files: /Users/matthew.jiao/dev/stackadapt/chromatic-poc/public at /var/folders/7s/3z_xmd9n0t1dkhxj2s483dn80000gp/T/chromatic--85344-GBh0wN5ERdTM/
+<s> [webpack.Progress] 18% building import loader ./node_modules/@storybook/mdx2-csf/loader.js
+<s> [webpack.Progress] 18% building 0/1 entries 20/35 dependencies 3/19 modules
+<s> [webpack.Progress] 18% building 0/1 entries 27/42 dependencies 4/25 modules
+<s> [webpack.Progress] 24% building import loader ./node_modules/unplugin/dist/webpack/loaders/load.js
+<s> [webpack.Progress] 24% building 0/1 entries 40/75 dependencies 8/30 modules
 <s> [webpack.Progress] 19% building import loader ./node_modules/@svgr/webpack/lib/index.js
 <s> [webpack.Progress] 19% building import loader ./node_modules/file-loader/dist/cjs.js
 <s> [webpack.Progress] 19% building 0/1 entries 63/79 dependencies 9/50 modules
-<s> [webpack.Progress] 34% building 0/1 entries 125/162 dependencies 35/80 modules
 <s> [webpack.Progress] 34% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
 <s> [webpack.Progress] 34% building import loader ./node_modules/css-loader/dist/cjs.js
 <s> [webpack.Progress] 34% building import loader ./node_modules/postcss-loader/dist/cjs.js
-<s> [webpack.Progress] 34% building 0/1 entries 185/228 dependencies 46/104 modules
-<s> [webpack.Progress] 27% building 0/1 entries 300/365 dependencies 57/181 modules
-<s> [webpack.Progress] 35% building 0/1 entries 687/700 dependencies 157/333 modules
-<s> [webpack.Progress] 42% building 0/1 entries 734/744 dependencies 200/341 modules
-<s> [webpack.Progress] 58% building 0/1 entries 1064/1098 dependencies 400/455 modules
+<s> [webpack.Progress] 34% building 0/1 entries 186/229 dependencies 47/104 modules
+<s> [webpack.Progress] 27% building 0/1 entries 300/313 dependencies 58/182 modules
+<s> [webpack.Progress] 42% building 0/1 entries 739/749 dependencies 200/343 modules
+<s> [webpack.Progress] 58% building 0/1 entries 1067/1094 dependencies 400/457 modules
 <s> [webpack.Progress] 65% building 1/1 entries 1463/1463 dependencies 681/681 modules
 <s> [webpack.Progress] 65% building
 <s> [webpack.Progress] 69% building finish
@@ -245,8 +244,8 @@ info => Copying static files: /Users/matthew.jiao/dev/stackadapt/chromatic-poc/p
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.ba23c475.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.ba23c475.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.c58cf31b.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.c58cf31b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.c225752a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.c225752a.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Introduction-mdx.5865791e.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Introduction-mdx.5865791e.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Button-stories.fa7372a7.chunk.css generate SourceMap
@@ -259,8 +258,8 @@ info => Copying static files: /Users/matthew.jiao/dev/stackadapt/chromatic-poc/p
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Header-stories.905077f4.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Page-stories.eab7bede.chunk.css generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Page-stories.eab7bede.chunk.css generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Page-stories.5e1be126.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Page-stories.5e1be126.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Page-stories.6666731d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Page-stories.6666731d.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 720.730d860a.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 720.730d860a.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 333.cfd7e006.iframe.bundle.js generate SourceMap
@@ -359,7 +358,7 @@ info => Copying static files: /Users/matthew.jiao/dev/stackadapt/chromatic-poc/p
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 100% 
 
-info => Preview built (23 s)
+info => Preview built (28 s)
 WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
 WARN This can impact web performance.
 WARN Assets: 
@@ -378,4 +377,4 @@ WARN
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-info => Output directory: /var/folders/7s/3z_xmd9n0t1dkhxj2s483dn80000gp/T/chromatic--84013-ehp7s77TdTMK
+info => Output directory: /var/folders/7s/3z_xmd9n0t1dkhxj2s483dn80000gp/T/chromatic--85344-GBh0wN5ERdTM
