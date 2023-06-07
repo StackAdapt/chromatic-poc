@@ -14,7 +14,7 @@ export const Button = ({ primary, backgroundColor, size, label, ...props }) => {
       style={backgroundColor && { backgroundColor }}
       {...props}
     >
-      {label} Chromatic Test 2
+      {label} Chromatic Test 3
     </button>
   );
 };
